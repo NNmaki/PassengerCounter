@@ -1,8 +1,9 @@
 
 
-let count = 0
+
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
+let count = 0
 
 function increment() {
     count += 1
@@ -11,9 +12,9 @@ function increment() {
 
 function save() {
     let countStr = count + " - "
-    saveEl.textContenttStr
-    countEl.textContent = 0
-    count = 0
+    saveEl.textContent += countStr
+    count = 0 
+    countEl.textContent = count
 }
 
 console.log("Lets count the people jumping on train!")
