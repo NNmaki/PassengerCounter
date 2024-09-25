@@ -12,10 +12,12 @@ The user can define the number to be saved by pressing the Increment button to r
 
 ## 🎯 Screenshots
 
-![screenshots_1](https://github.com/user-attachments/assets/699d587b-9f20-47ee-b016-69a9bc4fe2f5)
+![pc_sc_1](https://github.com/user-attachments/assets/82ad6554-3333-4241-afbb-cf40c80b9a9d)
+
+![pc_sc_2](https://github.com/user-attachments/assets/3dbb4242-1b0c-417a-8201-2acdab270fcc)
 
 
-![screenshots_2](https://github.com/user-attachments/assets/a2015185-9429-41ae-9d1c-afc073c61468)
+
 
 
 
